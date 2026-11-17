@@ -1,0 +1,8 @@
+{
+  "apiKey": "在这里填写你的 DeepSeek API Key（sk-开头）",
+  "baseURL": "https://api.deepseek.com",
+  "model": "deepseek-chat",
+  "port": 3000,
+  "temperature": 0.9,
+  "maxTokens": 400
+}
